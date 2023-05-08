@@ -22,7 +22,7 @@ public class BankController {
 	private BankServiceImp serviceImp;
 	
 	@RequestMapping("/")
-	public String homePage() {
+	public String home() {
 		return "home";
 	}
 	@RequestMapping("/newaccount")
