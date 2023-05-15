@@ -17,4 +17,4 @@
      Step.1->Download the gip file of the project.
      step.2->import the file into your eclipse IDE.
      step.3->Make sure that you have changed the "application.properties" code with respect to your database connection.
-     step.4->confirm there are no errors in projects and open SpringBootBankApplication.java file and click on "Run as JavaApplication".your server starts running and then go              to browser and check the project is running fine or not.
+     step.4->confirm there are no errors in projects and open SpringBootBankApplication.java file and click on "Run as JavaApplication".your server starts running and then go  to browser and check the project is running fine or not.
